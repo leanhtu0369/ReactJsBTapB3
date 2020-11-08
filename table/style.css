@@ -1,0 +1,7 @@
+.block__table {
+  margin: 30px auto;
+}
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
